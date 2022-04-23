@@ -204,6 +204,7 @@ VALUES('Matriz', 1, '88866555576', '1981-06-19'),
 ('Administração', 4, '98765432168', ' 1995-01-01');
 
 
+
 INSERT INTO elmasri.localizacoes_departamento( numero_departamento, local)
 VALUES(1, ' São Paulo'),
 (4, ' Mauá'),
