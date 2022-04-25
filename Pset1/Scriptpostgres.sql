@@ -23,7 +23,7 @@ CREATE DATABASE uvv
     AUTHORIZATION "Josue";
   
 
-   ALTER USER "Christopher"
+   ALTER USER "Josue"
 SET SEARCH_PATH TO elmasri, "$Josue", public;
 
 
