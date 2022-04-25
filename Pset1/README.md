@@ -6,7 +6,7 @@
 
 
 # Introdução
-Este trabalho é composto
+Nesse trabalho eu coloquei em prática os códigos que encontrei em leituras, nas aulas em sala e nas pesquisas de outros meios. Esse trabalho foi muito cansativo, pois tive dificuldade com alguns erros que estavam acontecendo no meio do processo , ainda estou com algumas dúvidas , mas acho que eu conseguir fazer da forma mais certa possível.
 
 
 
